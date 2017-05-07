@@ -4,7 +4,6 @@ import React  from 'react';
 import PropTypes from 'prop-types';
 import moment from 'moment';
 import 'moment-timezone';
-import PropTypes from 'prop-types'
 
 export default class Moment extends React.Component {
     constructor(props) {
